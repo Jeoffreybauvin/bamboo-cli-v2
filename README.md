@@ -1,6 +1,8 @@
 # bamboo-console
 Use Atlassian Bamboo from the command line
 
+Note : this is a fork from https://bitbucket.org/atlassian/bamboo-cli
+
 ## Install
 
 * `sudo gem install bamboo-console`
