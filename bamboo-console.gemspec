@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.license     = 'Apache-2.0'
 
   s.summary     = 'Command line interface for Atlassian Bamboo'
-  s.description = 'Command line interface for Atlassian Bamboo (all versions)'
+  s.description = 'Command line interface for Atlassian Bamboo (all versions). Forked from https://bitbucket.org/atlassian/bamboo-cli'
   s.homepage    = 'https://github.com/Jeoffreybauvin/bamboo-console'
 
   #dependencies, lets keep'em lean!
